@@ -1,0 +1,230 @@
+.banner {      
+    width: 1890px;
+    height: 1165px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: linear-gradient(315deg, #4971FF -56.62%, #21212B 61.24%);
+    display: flex;
+}
+.logo {
+    margin-top: -300px;
+}
+.illustration {
+    margin-top: -700px;
+    margin-left: 975px;
+    display: flex;
+}
+.mainheading {       
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 335px;
+    padding-left: 85px;
+}
+.maincontent {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 70px;
+}
+.globified {
+    background-color: #4971FF;
+}
+.germany {
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 0px 25px 25px rgba(0, 0, 0, 0.07);
+    width: 1377px;
+    height: 200px;
+    flex-shrink: 0;
+    margin-top: 100px;
+    margin-left: 181px;
+}
+.germany h1 {
+    color: #4971FF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 40px;
+}
+.germany p {
+    color: #252525;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.study {
+    margin-left: 169px;
+}
+.work {
+    margin-left: 75px;
+}
+.h1 {
+    color: #4971FF;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+}
+.p {
+    color: #252525;
+    text-align: left;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}  
+.block {
+    display: flex;
+    margin-top: 200px;
+    margin-left: 257px;
+    margin-bottom: 100px;
+}
+.block2 {
+    margin-left: 179px;
+}
+.feedback {
+    width: 1920px;
+    height: 1500px;
+    flex-shrink: 0;
+    background: #F7F7F7;
+    padding-top: 162px;
+}
+.feedback h1 {
+    color: #4971FF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.feedback h2 {
+    color: #4971FF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.feedback p {
+    color: #252525;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.rating {
+    margin-top: 161px;
+    margin-left: 115px;
+}
+.appointment {
+    width: 1500px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #4971FF;
+    box-shadow: 0px 0px 25px 25px rgba(73, 113, 255, 0.17);
+    margin-top: 215px;
+    margin-bottom: 215px;
+    margin-left: 200px;    
+}
+.appointment h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 70px;
+}
+.appointment p {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 30px;
+}
+#textButton {
+    width: 550px;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #FFF;
+    box-shadow: 0px 0px 25px 25px rgba(0, 0, 0, 0.03);
+    border: none;
+    color: #4971FF;
+    font-family: Poppins;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 30px;
+    margin-left: 466px;
+}
+#textButton:hover {
+    background-color: #4971FF;
+    cursor: pointer;
+}
+.footer {
+    width: 1890px;
+    height: 485px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #21212B;
+}
+.icon {
+    padding-top: 100px;
+    padding-left: 910px;
+}
+.footer h1 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+}
+.fb {
+    padding-left: 852px;
+}
+.insta {
+    padding-left: 15px;
+}
+.in {
+    padding-left: 15px;
+}
+.footer p {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    padding-top: 25px;
+}    
